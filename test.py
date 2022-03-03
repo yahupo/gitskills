@@ -1,5 +1,4 @@
 newone
-ggg
 
-gggg
-ggg
+
+creating a new branch is quick and simple.
